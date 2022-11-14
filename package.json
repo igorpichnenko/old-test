@@ -1,5 +1,6 @@
 {
   "name": "frontend-test-task",
+  "homepage": "http://igorpichnenko.github.io/old-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -59,7 +60,9 @@
     "lint:fix": "eslint --fix --ext .ts,.tsx ./src",
     "storybook": "start-storybook -p 6007",
     "storybook:build": "build-storybook",
-    "deploy-storybook": "yarn build-storybook && gh-pages -d storybook-static"
+    "deploy-storybook": "yarn build-storybook && gh-pages -d storybook-static",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
