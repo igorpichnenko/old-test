@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/old-test/static/css/main.72c23639.css",
+    "main.css": "/old-test/static/css/main.4886dd08.css",
     "main.js": "/old-test/static/js/main.af25a0bd.js",
     "static/js/787.18807a08.chunk.js": "/old-test/static/js/787.18807a08.chunk.js",
     "static/media/HelveticaNeueBoldCondensed.eot": "/old-test/static/media/HelveticaNeueBoldCondensed.5fb81c36cc15b45f058e.eot",
@@ -76,12 +76,12 @@
     "static/media/HelveticaNeueCyr-Bold.woff2": "/old-test/static/media/HelveticaNeueCyr-Bold.a737902275e936eaf242.woff2",
     "static/media/HelveticaNeueCyr-Heavy.woff2": "/old-test/static/media/HelveticaNeueCyr-Heavy.31abf4828115acce8d4e.woff2",
     "index.html": "/old-test/index.html",
-    "main.72c23639.css.map": "/old-test/static/css/main.72c23639.css.map",
+    "main.4886dd08.css.map": "/old-test/static/css/main.4886dd08.css.map",
     "main.af25a0bd.js.map": "/old-test/static/js/main.af25a0bd.js.map",
     "787.18807a08.chunk.js.map": "/old-test/static/js/787.18807a08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72c23639.css",
+    "static/css/main.4886dd08.css",
     "static/js/main.af25a0bd.js"
   ]
 }
