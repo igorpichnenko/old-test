@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/old-test/static/css/main.ff5b9235.css",
-    "main.js": "/old-test/static/js/main.16ced288.js",
+    "main.css": "/old-test/static/css/main.b41b7b5b.css",
+    "main.js": "/old-test/static/js/main.0123a878.js",
     "static/js/787.18807a08.chunk.js": "/old-test/static/js/787.18807a08.chunk.js",
     "static/media/HelveticaNeueBoldCondensed.eot": "/old-test/static/media/HelveticaNeueBoldCondensed.5fb81c36cc15b45f058e.eot",
     "static/media/HelveticaNeueBoldCondensed.ttf": "/old-test/static/media/HelveticaNeueBoldCondensed.7ff1b25d7041efe11b45.ttf",
@@ -76,12 +76,12 @@
     "static/media/HelveticaNeueCyr-Bold.woff2": "/old-test/static/media/HelveticaNeueCyr-Bold.a737902275e936eaf242.woff2",
     "static/media/HelveticaNeueCyr-Heavy.woff2": "/old-test/static/media/HelveticaNeueCyr-Heavy.31abf4828115acce8d4e.woff2",
     "index.html": "/old-test/index.html",
-    "main.ff5b9235.css.map": "/old-test/static/css/main.ff5b9235.css.map",
-    "main.16ced288.js.map": "/old-test/static/js/main.16ced288.js.map",
+    "main.b41b7b5b.css.map": "/old-test/static/css/main.b41b7b5b.css.map",
+    "main.0123a878.js.map": "/old-test/static/js/main.0123a878.js.map",
     "787.18807a08.chunk.js.map": "/old-test/static/js/787.18807a08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff5b9235.css",
-    "static/js/main.16ced288.js"
+    "static/css/main.b41b7b5b.css",
+    "static/js/main.0123a878.js"
   ]
 }
